@@ -1,3 +1,3 @@
 # demo
-My first GIT project.
+My first GIT project. <br>
 Author : Pallavi Nayak
